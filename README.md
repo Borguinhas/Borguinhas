@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Borguinhas
 - 👀 I’m interested in coding, games, have fun!
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and C#.
 - 💞️ I’m looking to collaborate on any project once i have more experiece to help.
 - 📫 How to reach me? Well, just email me sergmsilv@gmail.com
 
