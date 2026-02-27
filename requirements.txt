@@ -1,0 +1,10 @@
+
+requests==2.31.0
+customtkinter==5.2.2
+win10toast==0.9; sys_platform == 'win32'
+logging
+sqlite3
+concurrent.futures
+difflib
+enum
+dataclasses
