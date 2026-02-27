@@ -2,8 +2,16 @@
 import customtkinter
 import threading
 import logging
+import sys
+import os
 from concurrent.futures import ThreadPoolExecutor
 from typing import List, Dict, Optional
+
+# Add the project root to the Python path to resolve local imports
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 from ui.table_view import TableView
 from services.api_client import APIClient
 from services.arbitrage_engine import ArbitrageEngine
